@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to use GitHub and super computer environment at CSC
 - 📫 katriina.juva@syke.if
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like visiting museums - In Helsinki my favourite is Ateneum Art Museum
+- ⚡ Fun fact: Both freshwater and marine species live in the Baltic Sea
 
 <!---
 Katriinj/Katriinj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
